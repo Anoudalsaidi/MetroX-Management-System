@@ -106,9 +106,9 @@ class Program
 
         PrintTableFooter();
 
-        // =========================
+        // ========================
         // INCLUDE VIEW
-        // =========================
+        // ========================
         Header("TICKETS DETAILS (RELATIONS)");
 
         var includeData = context.Tickets
