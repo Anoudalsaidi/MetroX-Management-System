@@ -123,9 +123,9 @@ class Program
 
         PrintTableFooter();
 
-        // =========================
+        // ========================
         // BONUS
-        // =========================
+        // ========================
         Header("CHEAPEST TICKET");
 
         var cheapest = context.Tickets.OrderBy(t => t.Price).First();
