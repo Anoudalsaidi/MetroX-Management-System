@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MetroTicketSystem": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
