@@ -147,9 +147,9 @@ class Program
             Console.WriteLine($"{g.Train} => {g.Count}");
     }
 
-    // =========================
+    // =======================
     //    UI METHODS
-    // =========================
+    // =======================
 
     static void Header(string title)
     {

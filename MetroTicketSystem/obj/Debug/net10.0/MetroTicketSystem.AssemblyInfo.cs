@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MetroTicketSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0455f28317fe828211d71c3e458785d36952bc09")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd7c5dcd57a69d51c904496c3f7d8eadb7f52f5a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MetroTicketSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MetroTicketSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
