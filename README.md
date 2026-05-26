@@ -141,7 +141,18 @@ dotnet run
 ```
 
 ---
+## 📷 Screenshots
 
+### Main Menu
+![Main Menu](https://github.com/Anoudalsaidi/MetroX-Management-System/blob/master/Mertox.main.png)
+
+### Tickets Page
+![Tickets](screenshots/tickets.png)
+
+### Reports
+![Reports](screenshots/reports.png)
+
+---
 # 📈 Sample Reports
 
 - Total Revenue
