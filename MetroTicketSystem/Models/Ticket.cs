@@ -8,13 +8,12 @@ namespace MetroTicketSystem.Models
         // Primary Key
         public int Id { get; set; }
 
-        // Passenger full name
+
         public string PassengerName { get; set; }
 
-        // Ticket price
+       
         public decimal Price { get; set; }
 
-        // Travel date
         public DateTime TravelDate { get; set; }
 
         // Foreign Key for Train
