@@ -149,13 +149,14 @@ dotnet run
 ### Tickets Page
 ![Tickets](https://github.com/Anoudalsaidi/MetroX-Management-System/blob/master/Metrox-viewTicket.png)
 
-### Tickets Page
-![Add Tickets](https://github.com/Anoudalsaidi/MetroX-Management-System/blob/master/Metrox-viewTicket.png)
+### Add Tickets 
+![Add Tickets](https://github.com/Anoudalsaidi/MetroX-Management-System/blob/master/Metrox-AddTicket.png)
 
 ### Reports
-![Reports](screenshots/reports.png)
+![Reports](https://github.com/Anoudalsaidi/MetroX-Management-System/blob/master/Metrox-RevenueReport.png)
 
 ---
+
 # 📈 Sample Reports
 
 - Total Revenue
