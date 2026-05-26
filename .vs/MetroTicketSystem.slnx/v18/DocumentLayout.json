@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\baker\\Desktop\\Backend\\MetroTicketSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BB089CCF-0FFD-DBA5-2D6F-41829C32808F}|MetroTicketSystem\\MetroTicketSystem.csproj|c:\\users\\baker\\desktop\\backend\\metroticketsystem\\metroticketsystem\\seed\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB089CCF-0FFD-DBA5-2D6F-41829C32808F}|MetroTicketSystem\\MetroTicketSystem.csproj|solutionrelative:metroticketsystem\\seed\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BB089CCF-0FFD-DBA5-2D6F-41829C32808F}|MetroTicketSystem\\MetroTicketSystem.csproj|c:\\users\\baker\\desktop\\backend\\metroticketsystem\\metroticketsystem\\models\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB089CCF-0FFD-DBA5-2D6F-41829C32808F}|MetroTicketSystem\\MetroTicketSystem.csproj|solutionrelative:metroticketsystem\\models\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BB089CCF-0FFD-DBA5-2D6F-41829C32808F}|MetroTicketSystem\\MetroTicketSystem.csproj|c:\\users\\baker\\desktop\\backend\\metroticketsystem\\metroticketsystem\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB089CCF-0FFD-DBA5-2D6F-41829C32808F}|MetroTicketSystem\\MetroTicketSystem.csproj|solutionrelative:metroticketsystem\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB089CCF-0FFD-DBA5-2D6F-41829C32808F}|MetroTicketSystem\\MetroTicketSystem.csproj|c:\\users\\baker\\desktop\\backend\\metroticketsystem\\metroticketsystem\\seed\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB089CCF-0FFD-DBA5-2D6F-41829C32808F}|MetroTicketSystem\\MetroTicketSystem.csproj|solutionrelative:metroticketsystem\\seed\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB089CCF-0FFD-DBA5-2D6F-41829C32808F}|MetroTicketSystem\\MetroTicketSystem.csproj|c:\\users\\baker\\desktop\\backend\\metroticketsystem\\metroticketsystem\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -60,11 +60,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ConsoleUI.cs",
               "DocumentMoniker": "C:\\Users\\baker\\Desktop\\Backend\\MetroTicketSystem\\MetroTicketSystem\\UI\\ConsoleUI.cs",
               "RelativeDocumentMoniker": "MetroTicketSystem\\UI\\ConsoleUI.cs",
@@ -76,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TicketService.cs",
               "DocumentMoniker": "C:\\Users\\baker\\Desktop\\Backend\\MetroTicketSystem\\MetroTicketSystem\\Services\\TicketService.cs",
               "RelativeDocumentMoniker": "MetroTicketSystem\\Services\\TicketService.cs",
@@ -88,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\baker\\Desktop\\Backend\\MetroTicketSystem\\MetroTicketSystem\\Program.cs",
               "RelativeDocumentMoniker": "MetroTicketSystem\\Program.cs",
@@ -100,15 +100,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "DbSeeder.cs",
               "DocumentMoniker": "C:\\Users\\baker\\Desktop\\Backend\\MetroTicketSystem\\MetroTicketSystem\\Seed\\DbSeeder.cs",
               "RelativeDocumentMoniker": "MetroTicketSystem\\Seed\\DbSeeder.cs",
               "ToolTip": "C:\\Users\\baker\\Desktop\\Backend\\MetroTicketSystem\\MetroTicketSystem\\Seed\\DbSeeder.cs",
               "RelativeToolTip": "MetroTicketSystem\\Seed\\DbSeeder.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAADoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T07:30:02.023Z"
+              "WhenOpened": "2026-05-26T07:30:02.023Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -124,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Ticket.cs",
               "DocumentMoniker": "C:\\Users\\baker\\Desktop\\Backend\\MetroTicketSystem\\MetroTicketSystem\\Models\\Ticket.cs",
               "RelativeDocumentMoniker": "MetroTicketSystem\\Models\\Ticket.cs",
@@ -136,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Train.cs",
               "DocumentMoniker": "C:\\Users\\baker\\Desktop\\Backend\\MetroTicketSystem\\MetroTicketSystem\\Models\\Train.cs",
               "RelativeDocumentMoniker": "MetroTicketSystem\\Models\\Train.cs",
@@ -144,18 +145,17 @@
               "RelativeToolTip": "MetroTicketSystem\\Models\\Train.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T06:45:27.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-24T06:45:27.813Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Station.cs",
               "DocumentMoniker": "C:\\Users\\baker\\Desktop\\Backend\\MetroTicketSystem\\MetroTicketSystem\\Models\\Station.cs",
               "RelativeDocumentMoniker": "MetroTicketSystem\\Models\\Station.cs",
               "ToolTip": "C:\\Users\\baker\\Desktop\\Backend\\MetroTicketSystem\\MetroTicketSystem\\Models\\Station.cs",
               "RelativeToolTip": "MetroTicketSystem\\Models\\Station.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-24T06:45:35.251Z",
               "EditorCaption": ""

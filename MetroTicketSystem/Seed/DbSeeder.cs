@@ -47,7 +47,17 @@ namespace MetroTicketSystem.Seed
                      TravelDate = DateTime.Now,
                      TrainId = t2.Id,
                      StationId = s2.Id
+                 },
+
+                 new Ticket
+                 {
+                     PassengerName = "Anoud",
+                     Price = 20,
+                     TravelDate = DateTime.Now,
+                     TrainId = t2.Id,
+                     StationId = s2.Id
                  }
+
             );
 
             // Save tickets
