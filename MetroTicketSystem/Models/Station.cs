@@ -8,10 +8,10 @@ namespace MetroTicketSystem.Models
         // Primary Key
         public int Id { get; set; }
 
-        // Station name
+   
         public string Name { get; set; }
 
-        // Station location
+     
         public string Location { get; set; }
 
         // Navigation property
