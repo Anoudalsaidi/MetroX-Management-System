@@ -8,10 +8,9 @@ namespace MetroTicketSystem.Models
         // Primary Key
         public int Id { get; set; }
 
-        // Train number
+       
         public string Number { get; set; }
 
-        // Maximum train capacity
         public int Capacity { get; set; }
 
         // Navigation property
