@@ -147,7 +147,10 @@ dotnet run
 ![Main Menu](https://github.com/Anoudalsaidi/MetroX-Management-System/blob/master/Mertox.main.png)
 
 ### Tickets Page
-![Tickets](screenshots/tickets.png)
+![Tickets](https://github.com/Anoudalsaidi/MetroX-Management-System/blob/master/Metrox-viewTicket.png)
+
+### Tickets Page
+![Add Tickets](https://github.com/Anoudalsaidi/MetroX-Management-System/blob/master/Metrox-viewTicket.png)
 
 ### Reports
 ![Reports](screenshots/reports.png)
