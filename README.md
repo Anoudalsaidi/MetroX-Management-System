@@ -142,19 +142,6 @@ dotnet run
 
 ---
 
-# 📷 Screenshots
-
-## Main Menu
-(Add Screenshot Here)
-
-## Database Tables
-(Add Screenshot Here)
-
-## Reports System
-(Add Screenshot Here)
-
----
-
 # 📈 Sample Reports
 
 - Total Revenue
